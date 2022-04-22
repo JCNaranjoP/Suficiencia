@@ -1,2 +1,3 @@
-# Suficiencia
+Para este sitio web utilice como base una plantilla de w3school pero modificando su html, css y añadiendo javascript para modificar su contenido y aspecto gráfico, se añadieron banners con carrusel de imagenes, login con localstorage aprendido en el curso de plataformas de programación empresarial y me base en el formato de las entregas de tus alumnos de introducción a la ingenieria los cuales contienen un home, about y contenido exclusivo.
+Al desconocer los componentes de front-end explicados en el curso de introducción en la unidad 1, utilice los conocimientos que he adquirido a lo largo de mis estudios academicos como puede ser el login con localstorage o el basarme en una plantilla para modificar su contenido para lograr crear un sitio web personalizado a mi gusto.
  
